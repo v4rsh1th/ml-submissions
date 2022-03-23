@@ -1,6 +1,6 @@
 ## BYTE PINACHE COMPETITION
 
-This is the official project of <strong>GROUP 9</strong>.
+Official project of <strong>GROUP 9</strong>.
 
 - Thota Varshith
 - Shaantanu Agarwal
