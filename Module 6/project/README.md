@@ -1,4 +1,4 @@
-## BYTE PINACHE COMPETITION
+## BYTE PANACHE COMPETITION
 
 Official project of <strong>GROUP 9</strong>.
 
