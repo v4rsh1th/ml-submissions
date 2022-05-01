@@ -15,3 +15,4 @@ Labs and projects submissions of FMML20210212.
 - Module 4: Perceptron and Gradient Descent, Support Vector Machines
 - Module 5: Decision Trees, Ensemble methods and Random Methods
 - Module 6: Regression
+- Module 7: Clustering
