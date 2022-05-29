@@ -16,6 +16,7 @@ Labs and projects submissions of FMML20210212.
 - Module 5: Decision Trees, Ensemble methods and Random Methods
 - Module 6: Regression
 - Module 7: Clustering
+- Module 8: Bayesian Machine Learning
 
 <hr/>
 
