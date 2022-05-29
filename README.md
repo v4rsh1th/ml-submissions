@@ -20,4 +20,4 @@ Labs and projects submissions of FMML20210212.
 
 <hr/>
 
-Check out the website: https://fmml-varshith.vercel.app
+Check the website at: https://fmml-varshith.vercel.app
