@@ -17,7 +17,7 @@ Labs and projects submissions of FMML20210212.
 - Module 6: Regression
 - Module 7: Clustering
 - Module 8: Bayesian Machine Learning
-- Module 9: Neural Networks: MLP and Back-propagation
+- Module 9: Neural Networks
 
 <hr/>
 
